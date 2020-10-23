@@ -21,12 +21,12 @@ sleep 1
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 echo "tunggu 10 detik"
 
-sleep 15
+sleep 30
 echo "like Vidio ini " $nick
 termux-open https://youtu.be/wFBzv_5xXhU
 sleep 9
 echo $ku "terimakasih" $me $nick
-sleep 5
+sleep 18
 clear
 echo $ku "Selamat datang di tools Download Vidio YouTube"
 sleep 2
@@ -45,4 +45,3 @@ sleep 2
  cd /sdcard
  wget https://pastebin.com/raw/LY5iibS5 -O yt.sh
  bash yt.sh
- 
