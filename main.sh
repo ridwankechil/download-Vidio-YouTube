@@ -20,6 +20,7 @@ echo "membuka YouTube"
 sleep 1
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 echo "tunggu 10 detik"
+
 sleep 15
 echo "like Vidio ini " $nick
 termux-open https://youtu.be/wFBzv_5xXhU
